@@ -88,7 +88,7 @@ Assumindo que todas estariam desligadas após o passo 1, eu iria me basear nas s
 
 > NÃO SE ESQUEÇA DE INSERIR O LINK DO SEU REPOSITÓRIO NO GITHUB COM O CÓDIGO FONTE QUE VOCÊ DESENVOLVEU .
 
-**Resolução:** Percorrendo o vetor de caracteres da string de trás para frente é possível reescrevê-lo ao contrário. [Implementação em _Python_](./reverse.py)
+**Resolução:** Percorrendo o vetor de caracteres da string de trás para frente é possível reescrevê-lo ao contrário. [Implementação em _Python_](./reverse.py).
 
 ```py
 text = input('Seu texto: ')
